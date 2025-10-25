@@ -41,6 +41,13 @@
 - Тестирование мобильных приложений с помощью Android Studio
 - Тестирование БД: агрегирующие функции, функции изменения данных (INSERT, UPDATE, DETELE), срезы данных и объединение таблиц с помощью INNER JOIN, LEFT JOIN и RIGHT JOIN
 
+### DevOps / System Administration
+- Windows Desktop администрирование
+- Linux администрирование (Ubuntu/Arch-based distros)
+- CLI: базовые команды + cat/grep/find, Nano/Vim, chmod 
+- Основы SSH
+- Настройка TCP/IP, DNS, DHCP и диагностика сети с помощью tcpdump, netstat, traceroute
+
 ## 📧 Контакты
 - Email: maximburov221@gmail.com
 - HH: [LINK](https://kaliningrad.hh.ru/resume/7c3fd3aaff0bccb6f90039ed1f555039315879) 
